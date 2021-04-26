@@ -10,6 +10,10 @@ Ao examinar o cards.css, você irá encontrar comentários indicando quais propr
 
 Se você estiver tendo problemas ao tentar lembrar o comportamento das diversas propriedades flexbox, consulte os diagramas de [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) (em inglês).
 
+## Bônus:
+
+A disposição dos elementos que foi apresentada não é acessível ao usuário Mobile/Tablet. Sendo assim, faça a adaptação com [Media Queries](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Media_Queries/Using_media_queries) para que tenha uma versão Mobile/Tablet.
+
 ## Envio
 
 Faça o push do código para o seu repositório GitLab e implemente-o via GitLab pages. No Canvas, por favor, envie a url de seu Gitlab Pages (ex: https://nomedeusuario.gitlab.io/s_flexbox-cards/) e, no GitLab, adicione o grupo `ka-br-<sua-turma>-correcoes` como membro do seu projeto com a permissão "Reporter".
